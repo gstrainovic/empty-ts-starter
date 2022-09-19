@@ -1,0 +1,3 @@
+# barcode-ts
+
+barcode scanner
